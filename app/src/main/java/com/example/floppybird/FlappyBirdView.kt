@@ -162,7 +162,7 @@ class FlappyBirdView(context: Context) : View(context) {
     }
 
     companion object {
-        private const val GRAVITY = 1f
+        private const val GRAVITY = 2f
         private const val TUBE_VELOCITY = 4f
         private const val GAP = 800f
     }

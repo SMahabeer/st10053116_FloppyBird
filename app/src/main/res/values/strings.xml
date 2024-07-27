@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FloppyBird</string>
+    <string name="play">play</string>
+    <string name="play_1">Play</string>
+</resources>
